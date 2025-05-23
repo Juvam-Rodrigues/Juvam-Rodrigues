@@ -1,6 +1,6 @@
 <h1>Olá, devs!👋 Me chamo Juvam Rodrigues do Nascimento Neto.</h1>
-
-##<ul>
+##
+<ul>
   <li>Bacharelando da área de Tecnologia da Informação.📚</li>
   <li>Programo em: Java, C, C++ e PHP.🖥️</li>
 </ul>  
