@@ -2,7 +2,7 @@
 
 <ul>
   <li>Bacharelando da área de Tecnologia da Informação.📚</li>
-  <li>Programo em: Java, C, C++ e PHP.🖥️</li>
+  <li>Programo principalmente em: Java, C, C++ e PHP.🖥️</li>
 </ul>  
 <p>Logo, busco aperfeiçoar meus métodos de programação. Por isso, fique à vontade de contribuir positivamente ou de estudar 
 com os meus projetos. :)</p>
@@ -12,6 +12,6 @@ com os meus projetos. :)</p>
 [![Gmail](https://img.shields.io/badge/Gmail-ce3d37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juvamrodrigues17@gmail.com)
 
 ![Juvam GitHub stats](https://github-readme-stats.vercel.app/api?username=Juvam-Rodrigues&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juvam-Rodrigues&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juvam-Rodrigues&theme=tokyonight&layout=compact)
 
 
