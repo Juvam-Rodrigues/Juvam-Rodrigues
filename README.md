@@ -1,4 +1,8 @@
-Olá, devs! Me chamo Juvam Rodrigues do Nascimento Neto, e sou um estudante da área da Tecnologia da Informação. 
+<h1>Olá, devs!👋 Me chamo Juvam Rodrigues do Nascimento Neto.</h1>
+<ul>
+  <li>Bacharelando da área de Tecnologia da Informação.📚</li>
+  <li>Programo em: Java, C, C++ e PHP.🖥️</li>
+</ul>  
 Logo, busco aperfeiçoar meus métodos de programação. Por isso, fique à vontade de contribuir positivamente ou de estudar 
 com os meus projetos. :)
 
