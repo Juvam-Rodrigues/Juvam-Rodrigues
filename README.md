@@ -11,7 +11,9 @@ com os meus projetos. :)</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juvamrodrigues/)
 [![Gmail](https://img.shields.io/badge/Gmail-ce3d37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juvamrodrigues17@gmail.com)
 
-![Juvam GitHub stats](https://github-readme-stats.vercel.app/api?username=Juvam-Rodrigues&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juvam-Rodrigues&size_height=3&theme=tokyonight&layout=compact)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Juvam-Rodrigues&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juvam-Rodrigues&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+</a>
