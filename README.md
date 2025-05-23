@@ -12,4 +12,6 @@ com os meus projetos. :)</p>
 [![Gmail](https://img.shields.io/badge/Gmail-ce3d37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juvamrodrigues17@gmail.com)
 
 ![Juvam GitHub stats](https://github-readme-stats.vercel.app/api?username=Juvam-Rodrigues&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+
 
