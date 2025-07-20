@@ -20,5 +20,5 @@ com os meus projetos. :)</p>
 [![Gmail](https://img.shields.io/badge/Gmail-ce3d37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juvamrodrigues17@gmail.com)
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Juvam-Rodrigues&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juvam-Rodrigues&theme=tokyonight&layout=compact&langs_count=8&card_width=800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juvam-Rodrigues&theme=tokyonight&layout=compact&langs_count=8&card_width=320&line_height=80" />
 </div>
