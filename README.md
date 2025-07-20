@@ -6,7 +6,6 @@
 </ul>  
 <p>Logo, busco aperfeiçoar meus métodos de programação. Por isso, fique à vontade de contribuir positivamente ou de estudar 
 com os meus projetos. :)</p>
-<br>
 
 <h1>Hello, devs! 👋 My name is Juvam Rodrigues do Nascimento Neto.</h1>
 
