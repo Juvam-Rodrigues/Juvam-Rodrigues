@@ -1,19 +1,10 @@
-<h1>Olá, devs!👋 Me chamo Juvam Rodrigues do Nascimento Neto.</h1>
-
-<ul>
-  <li>Bacharelando da área de Tecnologia da Informação.📚</li>
-  <li>Programo principalmente em: Java, C, C++ e PHP.🖥️</li>
-</ul>  
-<p>Logo, busco aperfeiçoar meus métodos de programação. Por isso, fique à vontade de contribuir positivamente ou de estudar 
-com os meus projetos. :)</p>
-
 <h1>Hello, devs! 👋 My name is Juvam Rodrigues do Nascimento Neto.</h1>
 
 <ul>
   <li>Undergraduate student in Information Technology. 📚</li>
   <li>Main programming languages: Java, C, C++, and PHP. 🖥️</li>
 </ul>  
-<p>I’m always looking to improve my programming methods. So feel free to contribute positively or explore my projects to learn. 🙂</p>
+<p>I’m always looking to improve my programming methods. So feel free to contribute positively or explore my projects to learn. :)</p>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juvamrodrigues/)
