@@ -11,8 +11,4 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-ce3d37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juvamrodrigues17@gmail.com)
 <br>
-<div style="display: flex">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Juvam-Rodrigues&show_icons=true&theme=tokyonight&rank_icon=github" "/>
-    &nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juvam-Rodrigues&theme=tokyonight&layout=compact&langs_count=8&card_width=340" />
-</div>
+
