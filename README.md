@@ -5,7 +5,6 @@
   <li>Main programming languages: Java, C, C++, and PHP. 🖥️</li>
 </ul>  
 <p>I’m always looking to improve my programming methods. So feel free to contribute positively or explore my projects to learn. :)</p>
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juvamrodrigues/)
 &nbsp;
