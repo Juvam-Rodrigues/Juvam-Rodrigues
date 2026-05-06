@@ -12,6 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-ce3d37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juvamrodrigues17@gmail.com)
 <br>
 
+<h2>🐍 My Contributions</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juvam-Rodrigues/Juvam-Rodrigues/output/github-contribution-grid-snake-dark.svg" />
