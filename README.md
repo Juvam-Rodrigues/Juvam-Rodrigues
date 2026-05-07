@@ -1,5 +1,6 @@
-<h1>Hello, devs! 👋 My name is Juvam Rodrigues do Nascimento Neto.</h1>
-
+<h1>
+  <img src=".github/gif/Hello,devs.gif" width="800" height="400">
+</h1>
 <ul>
   <li>Undergraduate student in Information Technology. 📚</li>
   <li>Main programming languages: Java, C, C++, and PHP. 🖥️</li>
