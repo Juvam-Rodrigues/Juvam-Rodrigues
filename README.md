@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juvamrodrigues/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-ce3d37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juvamrodrigues17@gmail.com)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Juvam-Rodrigues?label=follow&style=for-the-badge&logo=github)](https://github.com/Juvam-Rodrigues)
+
 <br>
 
 <h2>🐍 My Contributions</h2>
