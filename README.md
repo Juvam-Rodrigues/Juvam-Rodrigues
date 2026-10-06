@@ -6,7 +6,7 @@
 
 <ul>
   <li>Undergraduate student in Information Technology. 📚</li>
-  <li>Main programming languages: Java, C, C++, and PHP. 🖥️</li>
+  <li>Main programming languages: Java, Golang and PHP. 🖥️</li>
 </ul>  
 <p>I’m always looking to improve my programming methods. So feel free to contribute positively or explore my projects to learn. :)</p>
 
